@@ -1,0 +1,13 @@
+T,T,T,T,T,T,T,T,T,T,
+ , , , ,T,T, , , ,T,
+T, ,T, , , , ,T, ,T,
+T, ,T,T,T,T, ,T, ,T,
+T, ,T, , , , ,T,T,T,
+T, ,T, ,T, , , , ,T,
+T, ,T, ,T,T,T,T,T,T,
+T, ,T, , , , , , ,T,
+T, ,T,T,T,T, ,T, ,T,
+T, , ,T, ,T,B,T,T,T,
+Botanist: (9,6)
+Number of the bottle:99
+Number of the collected flowers:1
